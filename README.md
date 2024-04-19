@@ -1,1 +1,1 @@
-Olá, sou a Izabella Albuquerque, engenheira e futura desenvolvedora.
+Olá! Sou a Izabella Albuquerque, engenheira e futura desenvolvedora web.
