@@ -30,7 +30,6 @@
 <a href="linkedin.com/in/izabella-albuquerque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
  
- ---
 [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=0&color=11)](https://visitcount.itsvg.in)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
