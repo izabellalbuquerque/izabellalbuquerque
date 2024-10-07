@@ -3,7 +3,14 @@
 <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=izabellalbuquerque&theme=radical&mode=weekly" />
 <img width=41% align="center" src="https://github-readme-stats-git-main-izabellalbuquerque.vercel.app/api/top-langs/?username=izabellalbuquerque&show_icons=true&theme=radical&layout=compact" />
  </div>
- 
+
+ ![](https://github-readme-stats.vercel.app/api?username=izabellalbuquerque&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=izabellalbuquerque&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellalbuquerque&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=0&color=11)](https://visitcount.itsvg.in)
+
  &nbsp;
  &nbsp;
 
