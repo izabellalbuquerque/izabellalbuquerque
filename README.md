@@ -1,15 +1,10 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=izabellalbuquerque&theme=radical&mode=weekly" />
-<img width=41% align="center" src="https://github-readme-stats-git-main-izabellalbuquerque.vercel.app/api/top-langs/?username=izabellalbuquerque&show_icons=true&theme=radical&layout=compact" />
+
  </div>
 
- ![](https://github-readme-stats.vercel.app/api?username=izabellalbuquerque&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=izabellalbuquerque&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellalbuquerque&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=0&color=11)](https://visitcount.itsvg.in)
 
  &nbsp;
  &nbsp;
@@ -35,7 +30,8 @@
 <a href="linkedin.com/in/izabella-albuquerque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
  
-  
+ ---
+[![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=0&color=11)](https://visitcount.itsvg.in)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
