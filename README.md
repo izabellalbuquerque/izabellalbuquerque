@@ -21,10 +21,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=izabellalbuquerque&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=izabellalbuquerque&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellalbuquerque&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Contacts:
 
