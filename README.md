@@ -1,14 +1,11 @@
+## Social 
 
-<div  align="left" style="margin-bottom:100px">
-<img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=izabellalbuquerque&theme=radical&mode=weekly" />
+Follow me on social media for more tips and content about technology:
 
- </div>
-
-
-
- &nbsp;
- &nbsp;
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/techwithiza) 
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/izabellalbuquerque) 
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://codewithcoffee.notion.site/118163d2b3a9804aba2dd19f30a98632?v=118163d2b3a980cfaf91000c95a1c0ea) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@izabellalbuquerque) 
 
 
 ## My Skills
