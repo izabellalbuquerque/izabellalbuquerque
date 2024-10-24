@@ -8,7 +8,7 @@ Follow me on social media for more tips and content about technology:
 
 ## Explore More Content
 
-On my Notion, you'll find courses, tips, job opportunities, résumé templates, project ideas, articles, and many other useful resources to support your journey in technology:
+On my Notion, you'll find courses, articles, book recommendations, job opportunities, résumé templates, tips, project ideas, and many other useful resources to support your journey in technology:
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://codewithcoffee.notion.site/118163d2b3a9804aba2dd19f30a98632?v=118163d2b3a980cfaf91000c95a1c0ea) 
 
