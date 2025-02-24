@@ -32,9 +32,6 @@ On my Notion, you'll find courses, articles, book recommendations, job opportuni
 [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=0&color=11)](https://visitcount.itsvg.in)
 
 
-[![Image of https://github.com/izabellalbuquerque](https://github.com/wilfredopinom/my-views_counter/blob/master/svg/profile/badge.svg)](https://github.com/izabellalbuquerque)
-
-
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
