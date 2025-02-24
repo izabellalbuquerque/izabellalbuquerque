@@ -31,45 +31,6 @@ On my Notion, you'll find courses, articles, book recommendations, job opportuni
 ##
 [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=0&color=11)](https://visitcount.itsvg.in)
 
-
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contador de Visitas</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 20px;
-        }
-        #counter {
-            font-size: 24px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <h1>Visitas no site</h1>
-    <p id="counter">Carregando...</p>
-    
-    <script>
-        const url = "https://api.counterapi.com/api/v1/count?name=izabellalbuquerque";
-        
-        fetch(url)
-            .then(response => response.json())
-            .then(data => {
-                document.getElementById("counter").textContent = data.count;
-            })
-            .catch(error => {
-                console.error("Erro ao obter contagem:", error);
-                document.getElementById("counter").textContent = "Erro ao carregar";
-            });
-    </script>
-</body>
-</html>
-
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
